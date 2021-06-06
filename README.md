@@ -9,4 +9,6 @@ Click Close.
 
 ## How to put API key in the code
 
-You can find script tag for map at the end of the body tag.Between key word and ampersand sign paste the key you copied.
+You can find script tag for map at the end of the body tag.Between key word and ampersand sign paste the key you copied. 
+
+Note: The tag is at the bottom of index.html
